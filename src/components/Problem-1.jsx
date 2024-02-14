@@ -6,7 +6,7 @@ const Problem1 = () => {
 
 
 
-    let activeee;
+  
 
     const handleClick = (val) =>{
         console.log("val", val)
